@@ -1,0 +1,3 @@
+[submodule "extern/MSXgl"]
+	path = extern/MSXgl
+	url = https://github.com/aoineko-fr/MSXgl.git
